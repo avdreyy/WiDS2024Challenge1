@@ -1,0 +1,1 @@
+In 2024, the Datathon focuses on equity in healthcare, with sponsor Gilead Sciences providing rich data on metastatic breast cancer treatment, providers, facilities, and patients. Participants will analyze a unique dataset to identify possible inequities in patient care, such as treatment duration and time to adoption of treatment.
